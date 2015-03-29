@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="text1">This is my first app.</string>
+    <string name="text2">Press the button to start the compass.</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Compass</string>
+    <string name="title_activity_start_compass">startCompass</string>
+    <string name="title_activity_start_compass2">startCompass2</string>
+</resources>
